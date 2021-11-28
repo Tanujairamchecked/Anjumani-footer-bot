@@ -1,5 +1,5 @@
 # Footer-Bot
-A Telegram Bot for adding Footer caption beside main caption of Telegram Channel Messages. Best for Telegram Movie Channels. Made by [@AbirHasan2005](https://github.com/AbirHasan2005/Footer-Bot).
+A Telegram Bot for adding Footer caption beside main caption of Telegram Channel Messages. Best for Telegram Movie Channels. Made by [@tanujairam](https://github.com/AbirHasan2005/Footer-Bot).
 
 
 ### Demo Bot:
