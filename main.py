@@ -34,7 +34,7 @@ async def _start(bot: Client, m: Message):
             Config.START_TEXT,
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("Channel", url="https://t.me/anjumani_zone"), InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")],
+                    [InlineKeyboardButton("Channel", url="https://t.me/anjumani_zone"), InlineKeyboardButton("Developer", url="@tanujairam")],
                     [InlineKeyboardButton("Group", url="https://t.me/+E-6DtQ6YTjAxNDI1")]
                 ]
             ),
