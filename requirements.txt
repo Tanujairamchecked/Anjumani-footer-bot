@@ -1,4 +1,4 @@
-pyrogram
+git+https://github.com/BalamuruganDV/pyrogram-old@inline-m
 TgCrypto
 pyromod
 dnspython
